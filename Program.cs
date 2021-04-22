@@ -85,7 +85,8 @@ namespace VendingMachine
 
                 }
 
-                Console.WriteLine("Pick a value to deposit? Enter to return.");
+                Console.WriteLine("Pick the value to deposit?");
+                Console.WriteLine("Press enter to return.");
                 Console.Write("=> ");
 
                 worked = int.TryParse(Console.ReadLine(), out int depositValue);
@@ -102,6 +103,11 @@ namespace VendingMachine
                         Console.WriteLine($"You are out of {depositValue}kr {((depositValue >= 20) ? "bills" : "coins")}");
                         Console.ReadKey();
                     }
+                }
+                else if (worked)
+                {
+                    Console.WriteLine("You have to enter one of the given values specifed.");
+                    Console.ReadKey();
                 }
 
             }
@@ -124,6 +130,7 @@ namespace VendingMachine
                 }
                 Console.WriteLine("***********************************");
                 Console.WriteLine("Which product are you interested in? ");
+                Console.WriteLine("Press enter to return.");
                 Console.Write("=> ");
                 bool aNumber = int.TryParse(Console.ReadLine(), out int value);
                 if (productList.Exists(x => x.Id == value))
@@ -165,6 +172,7 @@ namespace VendingMachine
                 }
                 Console.WriteLine("----------------------------------");
                 Console.WriteLine("Which product do you want to inspect?");
+                Console.WriteLine("Press enter to return.");
                 Console.Write("=> ");
                 bool aNumber = int.TryParse(Console.ReadLine(), out int value);
                 if (ProductList.GetOwnedProducts().Exists(x => x.Id == value))
