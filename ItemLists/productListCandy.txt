@@ -1,0 +1,4 @@
+id,name,volume,price,amount,type
+4,Snickers,15,7,12,candy
+5,Chokladkaka,200,17,3,candy
+6,Japp,30,12,14,candy

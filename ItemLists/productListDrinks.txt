@@ -1,0 +1,4 @@
+id,name,volume,price,amount,type
+1,Coca Cola,500,16,5,drink
+2,Fanta,330,11,7,drink
+3,Sprite,1000,28,2,drink

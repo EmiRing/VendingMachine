@@ -1,0 +1,16 @@
+D:\Programming\Uppgifter\Temp\VendingMachine\obj\Debug\net5.0\VendingMachine.csprojAssemblyReference.cache
+D:\Programming\Uppgifter\Temp\VendingMachine\obj\Debug\net5.0\VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Uppgifter\Temp\VendingMachine\obj\Debug\net5.0\VendingMachine.AssemblyInfoInputs.cache
+D:\Programming\Uppgifter\Temp\VendingMachine\obj\Debug\net5.0\VendingMachine.AssemblyInfo.cs
+D:\Programming\Uppgifter\Temp\VendingMachine\obj\Debug\net5.0\VendingMachine.csproj.CoreCompileInputs.cache
+D:\Programming\Uppgifter\Temp\VendingMachine\bin\Debug\net5.0\VendingMachine.exe
+D:\Programming\Uppgifter\Temp\VendingMachine\bin\Debug\net5.0\VendingMachine.deps.json
+D:\Programming\Uppgifter\Temp\VendingMachine\bin\Debug\net5.0\VendingMachine.runtimeconfig.json
+D:\Programming\Uppgifter\Temp\VendingMachine\bin\Debug\net5.0\VendingMachine.runtimeconfig.dev.json
+D:\Programming\Uppgifter\Temp\VendingMachine\bin\Debug\net5.0\VendingMachine.dll
+D:\Programming\Uppgifter\Temp\VendingMachine\bin\Debug\net5.0\ref\VendingMachine.dll
+D:\Programming\Uppgifter\Temp\VendingMachine\bin\Debug\net5.0\VendingMachine.pdb
+D:\Programming\Uppgifter\Temp\VendingMachine\obj\Debug\net5.0\VendingMachine.dll
+D:\Programming\Uppgifter\Temp\VendingMachine\obj\Debug\net5.0\ref\VendingMachine.dll
+D:\Programming\Uppgifter\Temp\VendingMachine\obj\Debug\net5.0\VendingMachine.pdb
+D:\Programming\Uppgifter\Temp\VendingMachine\obj\Debug\net5.0\VendingMachine.genruntimeconfig.cache
